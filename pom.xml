@@ -13,7 +13,7 @@
     </repository>
   </repositories>
   <dependencies>
-<!--     <dependency>
+  <dependency>
       <groupId>netology</groupId>
       <artifactId>java</artifactId>
       <version>8_282</version>
