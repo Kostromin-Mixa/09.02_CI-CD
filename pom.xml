@@ -19,6 +19,6 @@
       <version>8_282</version>
       <classifier>distrib</classifier>
       <type>tar.gz</type>
-    </dependency> -->
+    </dependency>
   </dependencies>
 </project>
